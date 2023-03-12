@@ -1,0 +1,15 @@
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\bin\Debug\net6.0\Week2IFStatement.exe
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\bin\Debug\net6.0\Week2IFStatement.deps.json
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\bin\Debug\net6.0\Week2IFStatement.runtimeconfig.json
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\bin\Debug\net6.0\Week2IFStatement.dll
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\bin\Debug\net6.0\Week2IFStatement.pdb
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.csproj.AssemblyReference.cache
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.AssemblyInfoInputs.cache
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.AssemblyInfo.cs
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.csproj.CoreCompileInputs.cache
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.dll
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\refint\Week2IFStatement.dll
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.pdb
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\Week2IFStatement.genruntimeconfig.cache
+C:\Users\YavuzSelim\source\repos\Week2IFStatement\Week2IFStatement\obj\Debug\net6.0\ref\Week2IFStatement.dll
